@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://gitlab.com/ardani13/glints_binar9
+	fetch = +refs/*:refs/*
+	mirror = true
